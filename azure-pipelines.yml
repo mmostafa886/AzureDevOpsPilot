@@ -1,7 +1,6 @@
 jobs:
 - job: e2e_tests
-  pool:
-    vmImage: 'Ubuntu 16.04'
+  pool: Default
   steps:
   - task: NodeTool@0
     inputs:
