@@ -15,3 +15,4 @@ jobs:
     inputs:
       testResultsFiles: '**/report.xml'
       testResultsFormat: 'JUnit'
+      mergeTestResults: yes
