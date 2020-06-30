@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 83.0.4103.116 / Windows 10" tests="2" failures="0" skipped="0" errors="0" time="21.569" timestamp="Tue, 30 Jun 2020 12:05:33 GMT" >
+  <testcase classname="Getting Started" name="My first test" time="4.511">
+  </testcase>
+  <testcase classname="Odoo Pilot" name="Login" time="16.975">
+  </testcase>
+</testsuite>
