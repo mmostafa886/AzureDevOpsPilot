@@ -13,5 +13,5 @@ jobs:
   - task: PublishTestResults@2
     inputs:
       testResultsFiles: '**/report.xml'
-      testResultsFormat: 'XUnit'
+      testResultsFormat: 'JUnit'
       mergeTestResults: yes
