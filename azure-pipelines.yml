@@ -1,7 +1,6 @@
 jobs:
 - job: e2e_tests
-  pool:
-   vmImage: Win10
+  pool: default
   steps:
   - task: NodeTool@0
     inputs:
