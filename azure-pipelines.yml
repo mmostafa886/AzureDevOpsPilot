@@ -1,6 +1,6 @@
 jobs:
 - job: e2e_tests
-  pool: Default
+  pool: Win10
   steps:
   - task: NodeTool@0
     inputs:
