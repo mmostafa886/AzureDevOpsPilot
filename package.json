@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:Chrome": "testcafe chrome ./tests",
-    "test1": "testcafe chrome ./tests/Itq.Pilot.js",
+    "test12": "testcafe chrome ./tests/Itq.Pilot.js",
     "test": "testcafe chrome:headless tests/**/* --reporter spec,xunit:report.xml"
   },
   "author": "",
